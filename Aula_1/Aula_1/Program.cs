@@ -10,6 +10,13 @@ namespace Aula_1
     {
         static void Main(string[] args)
         {
+            byte tecla, teclaCalculadora;
+            int idade, conta;
+            float contaGrande, numeroGrande;
+            bool verdadeiroOuFalso, simOuNao;
+            string nome, frases;
+            char letra, numero;
+            
         }
     }
 }
